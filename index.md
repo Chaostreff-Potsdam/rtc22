@@ -1,7 +1,5 @@
 ---
 layout: default
-title: Reconnect to Chaos
-description: 27.12.2022 - 30.12.20222
 ---
 <!-- <h1>Reconnect to Chaos</h1>
 <h2>27.12.2022 - 30.12.20222</h2> -->
