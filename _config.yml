@@ -1,4 +1,4 @@
-theme: so-simple-theme
+theme: jekyll-remote-theme
 plugins:
   - jekyll-multiple-languages-plugin
 languages: ["de", "en"]
