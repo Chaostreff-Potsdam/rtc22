@@ -2,5 +2,6 @@ theme: jekyll-theme-hacker
 plugins:
   - jekyll-multiple-languages-plugin
 languages: ["de", "en"]
+repository: Chaostreff-Potsdam/rtc22
 # baseurl: "" # the subpath of your site, e.g. /blog
 # url: "" # the base hostname & protocol for your site, e.g. http://example.com
