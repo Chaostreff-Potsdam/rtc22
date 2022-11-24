@@ -7,8 +7,10 @@
     und hast Lust wieder beim Chaos anzudocken, weißt aber nicht wohin?
     Du hast super tolle Hack-Projekte und suchst einen Ort, um sie zu präsentieren? Das können wir lösen!
 </p>
+<p>
     Im freiLand Potsdam wird ein kleines, feines Präsenzevent stattfinden.
     Wir nennen es "RTC - Reconnect To Chaos!".
+</p>
 <p>
     Wir haben einen großen Saal,
     mehrere Workshopräume und ein spannendes Gelände. Vorträge werden gestreamt
