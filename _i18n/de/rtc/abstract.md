@@ -5,7 +5,8 @@
     der große Chaos Communication Congress des CCC ist ausgefallen.
     Also hast du plötzlich viel freie Zeit vom 27.12.-30.12.2022
     und hast Lust wieder beim Chaos anzudocken, weißt aber nicht wohin?
-    Du hast super tolle Hack-Projekte und suchst einen Ort, um sie zu präsentieren? Das können wir lösen!
+    Du hast super tolle Hack-Projekte oder Ideen, wie man die Gesellschaft verbessern könnte,
+    und suchst einen Ort, um sie zu präsentieren? Das können wir lösen!
 </p>
 <p>
     Im freiLand Potsdam wird ein kleines, feines Präsenzevent stattfinden.
