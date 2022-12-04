@@ -1,3 +1,8 @@
 global:
   german: Deutsch
   english: English
+  hygiene_concept: Hygienekonzept
+  contact: Kontakt
+
+location:
+  map_big: Karte in Groß
