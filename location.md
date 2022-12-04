@@ -3,10 +3,12 @@
 <!-- Geo link for opening map with a smartphone, see https://stackoverflow.com/a/10632079 -->
 <a href="geo:52.389424,13.078555" target="_blank">52.389424, 13.078555</a>
 
-<!-- from openstreetmap.org -> export -> HTML -> include marker -->
+<!-- from openstreetmap.org -> export -> HTML -> include marker #
+52.38935,13.07807?z=19
+-->
 <iframe width="100%" height="350" frameborder="0" scrolling="no"
         marginheight="0" marginwidth="0"
-        src="https://www.openstreetmap.org/export/embed.html?bbox=13.07753920555115%2C52.38891775630483%2C13.079620599746706%2C52.389922830851866&amp;layer=mapnik&amp;marker=52.38942029643904%2C13.078579902648926" style="border: 1px solid black"></iframe><a href="https://www.openstreetmap.org/?mlat=52.38942&amp;mlon=13.07858#map=19/52.38942/13.07858">{% t location.map_big %}</a>
+        src="https://www.openstreetmap.org/export/embed.html?bbox=13.075844049453737%2C52.38866075474167%2C13.080301880836489%2C52.39004559897564&amp;layer=mapnik&amp;marker=52.38935318228958%2C13.078072965145111" style="border: 1px solid black"></iframe><a href="https://www.openstreetmap.org/?mlat=52.38942&amp;mlon=13.07858#map=19/52.38942/13.07858">{% t location.map_big %}</a>
 
 <!-- Die machBar verfügt über diese Bereiche:
 

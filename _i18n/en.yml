@@ -1,6 +1,8 @@
 global:
   german: Deutsch
   english: English
+  hygiene_concept: Hygiene Concept
+  contact: Contact
 
 location:
-  map_big: Big Map
+  map_big: View Larger Map

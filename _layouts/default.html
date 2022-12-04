@@ -13,7 +13,7 @@
   <body>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
 
-    <header class="page-header" role="banner" style="background-image: url(banner.svg) no-repeat center center;">
+    <header class="page-header" role="banner" style="background-image: url(banner.svg) no-repeat center center;padding: 2rem 6rem;">
       <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
   
@@ -21,6 +21,8 @@
       <a class="btn" href="https://tickets.ccc-p.org/rtc22/"><span class="text">Tickets</span></a>
       <a class="btn" href="https://cfp.ccc-p.org/rtc22/"><span class="text">CfP</span></a>
       <a class="btn" href="location"><span class="text">Location</span></a>
+      <!-- <a class="btn" href="hygiene_concept"><span class="text">{% t global.hygiene_concept %}</span></a> -->
+      <a class="btn" href="contact"><span class="text">{% t global.contact %}</span></a>
       <br>
       {% if site.lang == "de" %}
       {% capture link1 %}{{ site.baseurl_root }}/en{{ page.url}}{% endcapture %}
