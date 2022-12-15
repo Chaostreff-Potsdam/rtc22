@@ -3,6 +3,7 @@ global:
   english: English
   hygiene_concept: Hygienekonzept
   contact: Kontakt
+  schedule: Fahrplan
 
 location:
   map_big: Karte in Groß

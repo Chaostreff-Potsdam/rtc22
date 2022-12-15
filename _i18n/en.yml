@@ -3,6 +3,7 @@ global:
   english: English
   hygiene_concept: Hygiene Concept
   contact: Contact
+  schedule: Schedule
 
 location:
   map_big: View Larger Map
