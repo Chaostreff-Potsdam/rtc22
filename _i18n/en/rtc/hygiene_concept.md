@@ -1,5 +1,5 @@
 
-There is a reason that the large Congress has been decentralized: The pandemic is not over. We are trying to make the event in Potsdam as save as possible for all participants.
+There is a reason that the large Congress has been decentralized: The pandemic is not over. We are trying to make the event in Potsdam as safe as possible for all participants.
 
 Therefore:
 
