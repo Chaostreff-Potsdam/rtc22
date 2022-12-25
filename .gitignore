@@ -14,3 +14,5 @@ vendor/
 .vendor/
 # End of https://www.toptal.com/developers/gitignore/api/jekyll
 
+# node Dependency directories
+node_modules/
