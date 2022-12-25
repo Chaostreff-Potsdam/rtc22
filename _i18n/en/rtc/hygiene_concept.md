@@ -7,6 +7,6 @@ Therefore:
 
 1. Please test yourselves daily. If you can, use the "Bürgertest". We have a limited number of self-tests on site. (Donations appreciated.)
 
-1. If you experience flue-like symptoms (even during the event), please stay at home. Refunds are possible, get in contact.
+1. If you experience flu-like symptoms (even during the event), please stay at home. Refunds are possible, get in contact.
 
 1. Derogatory remarks towards other participants wearing a mask will not be tolerated. 
