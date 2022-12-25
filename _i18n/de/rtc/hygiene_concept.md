@@ -2,7 +2,7 @@ Dass der große Congress dezentralisiert wurde hat einen Grund: Die Pandemie ist
 
 Darum:
 
-1. In allen Innenräumen gilt Maskenpflicht (FFP2 oder höher).
+1. In allen Innenräumen wird das Tragen von Masken (FFP2 oder höher) dringend empfohlen.
 
 1. Testet euch bitte täglich. Wenn ihr könnt, nutzt die Möglichkeit von nachweisbaren Bürgertests. Wir haben eine begrenzte Anzahl von Selbsttests vor Ort. (Spende herzlich willkommen.)
 

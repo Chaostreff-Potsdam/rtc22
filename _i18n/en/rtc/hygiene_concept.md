@@ -3,7 +3,7 @@ There is a reason that the large Congress has been decentralized: The pandemic i
 
 Therefore:
 
-1. Indoors, FFP2 (or above) masks are mandatory.
+1. Indoors, FFP2 (or above) masks are strongly recommended.
 
 1. Please test yourselves daily. If you can, use the "Bürgertest". We have a limited number of self-tests on site. (Donations appreciated.)
 
